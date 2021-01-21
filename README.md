@@ -1,18 +1,16 @@
 # Python
 
-Uploading from 21 Jan 2021.
-
 Topics as follows:
 
-01) Basic Types (Number, String, Bool)
-02) List
-03) Dictionaries
-04) Variable
-05) Built-in Function
-06) User Function
-07) Function with Arguments
-08) Keyword Arguments
-09) Function with Return Value
+1) Basic Types (Number, String, Bool)
+2) List
+3) Dictionaries
+4) Variable
+5) Built-in Function
+6) User Function
+7) Function with Arguments
+8) Keyword Arguments
+9) Function with Return Value
 10) Branching
 11) Loops
 12) Object Orientated Programming(OOP)
